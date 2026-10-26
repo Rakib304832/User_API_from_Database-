@@ -1,4 +1,5 @@
 ﻿# User_API_from_Database-
+```json
 [
   {
     "name": "Aarav Sharma",
@@ -197,3 +198,5 @@
     "email": "noah.anderson@example.com"
   }
 ]
+```
+
